@@ -1,16 +1,20 @@
 ### Hi there 👋
+I am **Frans Riantoni**
 
-<!--
-**FransRiantoni/FransRiantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was borned for dealing with data and I created to be a data professional. 😄😄😄😄   
+
+
+
+I had graduated from Pertamina University as Geophysical Engineering in 2020 and then I continued my learning journey being a Data Science in Rakamin Bootcamp Academy since April-July 2021. I enthusiast with processing data, because i thought data could bring us more solution or recomendation for better decision.
+
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **my own project**
+- 🌱 I’m currently learning **Google Data Studio, new thing**
+- 👯 I’m looking to collaborate on **Anyone who have same interest**.
+- 🤔 I’m looking for help with **Google, StackOverflow, and Slack**.
+- 💬 Ask me about **Anything**.
+- 📫 How to reach me: [**LinkedIn** : https://www.linkedin.com/in/frans-riantoni-purba/ ]
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Find by yourself.**
 -->
