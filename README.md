@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Anyone who have same interest**.
 - 🤔 I’m looking for help with **Google, StackOverflow, and Slack**.
 - 💬 Ask me about **Anything**.
-- 📫 How to reach me: [**LinkedIn** : https://www.linkedin.com/in/frans-riantoni-purba/ ], [**Medium** : fransriantoni.medium.com]
+- 📫 How to reach me: 
+      [**LinkedIn**](https://www.linkedin.com/in/frans-riantoni-purba/)
+      [**Medium**](fransriantoni.medium.com)
+      [**Tableau**](https://public.tableau.com/app/profile/frans.riantoni)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Find by yourself.**
 -->
